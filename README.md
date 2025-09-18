@@ -1,1 +1,29 @@
-# alisa
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FKISIT</title>
+</head>
+<body>
+    <header>Laboratorna 1</header>
+
+    <h2>Random information</h2>
+    <ol>
+        <li><b>Point1</b></li>
+        <li><i>Point2</i></li>
+        <li><u>Point3</u></li>
+        <li><a href="http://www.google.com/" target="_blank">Point4</a></li>
+        <li style="color:red;">Point5</li>
+    </ol>
+
+    <h2>Second list</h2>
+    <ul class="alpha-list">
+        <li>Apple</li>
+        <li>Banana</li>
+        <li>Orange</li>
+    </ul>
+
+    <footer>Kulyk Sophiya</footer>
+</body>
+</html>
